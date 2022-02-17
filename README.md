@@ -1,6 +1,6 @@
 # Mika Luhta
 
-👋 Hi, I’m @mluhta. I'm currently working as a developer in cyber security field.
+👋 Hi, I’m @mluhta. I'm currently working as a developer in the cyber security field.
 
 ## Notable Contributions
 
